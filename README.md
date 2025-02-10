@@ -1,7 +1,7 @@
 # CS412 - Machine Learning - NYC Taxi Fare Prediction
 
 ## Overview
-This repository contains the project developed for the CS412 course on Machine Learning at the University of Illinois at Chicago (UIC). It contains the foundational resources necessary for running various machine-learning models. It includes scripts, folders, and instructions to set up and preprocess datasets, train models, and evaluate their performance.
+This repository contains the project developed for the CS412 course on Machine Learning at the University of Illinois at Chicago (UIC). The project predicts NYC taxi fares by incorporating temporal, spatial and environmental data to create a comprehensive prediction system. It contains the foundational resources necessary for running various machine-learning models. It includes scripts, folders, and instructions to set up and preprocess datasets, train models, and evaluate their performance.
 
 ## Repository Structure
 - **Preprocessing1**: Scripts for an earlier version of preprocessing.
